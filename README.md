@@ -1,1 +1,1 @@
-Studies are taking up most of my time, but I'll probably publish my python project by summer 2023. Maybe I'll even update the Dark Tidings project, who knows. 
+Cyber security studies are taking up most of my time, but I'm using some of my spare time to learn the basics of coding in different languages and I will be posting projects and solutions here. 
